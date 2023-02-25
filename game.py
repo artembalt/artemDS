@@ -9,3 +9,8 @@ def random_predict(number:int=1) -> int:
     Returns:
         int: _description_
     """
+    
+    
+    
+    
+    
